@@ -1,4 +1,4 @@
-Studying for C++ developer at Netology online school. 
+Studying for C++ developer at Netology online school.\
 Chapter 4: Algorithms and Data Structures
 
 Lessons:
