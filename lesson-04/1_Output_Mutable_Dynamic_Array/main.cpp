@@ -26,6 +26,7 @@ int main()
 	{
 		fillArr(arr, logicalSize);
 
+		std::cout << "Dynamic array: ";
 		printDynamicArray(arr, logicalSize, actualSize);
 
 		std::cout << "\n";
