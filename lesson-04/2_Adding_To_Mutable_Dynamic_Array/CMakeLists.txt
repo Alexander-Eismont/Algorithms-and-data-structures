@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.14)
+
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+project(AddingToMutableDynamicArray LANGUAGES CXX)
+
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
+
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ../../bin/)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ../../bin/)
+set(EXECUTABLE_OUTPUT_PATH ../../bin/)
+
+add_executable(AddingToMutableDynamicArray
+  main.cpp
+)
