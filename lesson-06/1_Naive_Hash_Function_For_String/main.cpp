@@ -5,7 +5,7 @@ std::string getString();
 
 int main()
 {
-    do
+    while (true)
     {
         std::string inputStr = getString();
 
@@ -15,7 +15,6 @@ int main()
         if (inputStr == "exit")
             break;
     }
-    while (true);
 
     system("pause");
 
