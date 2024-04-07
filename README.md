@@ -7,6 +7,6 @@ Lessons:
 - [x] Lesson 03 - Sorting
 - [x] Lesson 04 - Dynamic Array Deck Lists
 - [x] Lesson 05 - Pyramids and search trees
-- [ ] Lesson 06 - Tables
-- [ ] Lesson 07 - Graphs
+- [x] Lesson 06 - Tables
+- [x] Lesson 07 - Graphs
 - [ ] Lesson 08 - Digraphs
