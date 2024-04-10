@@ -9,4 +9,4 @@ Lessons:
 - [x] Lesson 05 - Pyramids and search trees
 - [x] Lesson 06 - Tables
 - [x] Lesson 07 - Graphs
-- [ ] Lesson 08 - Digraphs
+- [x] Lesson 08 - Digraphs
